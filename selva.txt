@@ -1,7 +1,13 @@
 changes file
+<<<<<<< HEAD
 this
 selvamin
 sshdsdsifhneg
 knsd
 
 add changes to branch
+=======
+
+Selva has modified this file
+
+>>>>>>> 46bd24f74676a2204955da812748899ef531aee0
