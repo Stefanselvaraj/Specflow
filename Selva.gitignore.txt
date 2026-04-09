@@ -1,0 +1,17 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Test results
+TestResults/
+
+# Optional (good practice)
+*.log
+*.cache

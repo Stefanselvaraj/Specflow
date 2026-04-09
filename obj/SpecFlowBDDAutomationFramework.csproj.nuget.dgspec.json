@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {}
+    "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\SpecFlowBDDAutomationFramework.csproj": {}
   },
   "projects": {
-    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {
+    "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\SpecFlowBDDAutomationFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\SpecFlowBDDAutomationFramework.csproj",
         "projectName": "SpecFlowBDDAutomationFramework",
-        "projectPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
-        "packagesPath": "C:\\Users\\Bakkappa N\\.nuget\\packages\\",
-        "outputPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\SpecFlowBDDAutomationFramework.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Bakkappa N\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "net6.0": {
+            "framework": "net6.0",
             "targetAlias": "net6.0",
             "projectReferences": {}
           }
@@ -34,10 +39,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net6.0": {
+          "framework": "net6.0",
           "targetAlias": "net6.0",
           "dependencies": {
             "ExtentReports": {
@@ -79,7 +91,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
