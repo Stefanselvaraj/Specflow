@@ -10835,11 +10835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\SpecFlowBDDAutomationFramework.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Pictures\\Repo GIt\\new git\\GIt 1\\Specflow\\SpecFlowBDDAutomationFramework.csproj",
       "projectName": "SpecFlowBDDAutomationFramework",
-      "projectPath": "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\SpecFlowBDDAutomationFramework.csproj",
+      "projectPath": "C:\\Users\\DELL\\Pictures\\Repo GIt\\new git\\GIt 1\\Specflow\\SpecFlowBDDAutomationFramework.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Pictures\\Bdd\\Specflow\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Pictures\\Repo GIt\\new git\\GIt 1\\Specflow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
